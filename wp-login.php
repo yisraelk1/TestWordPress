@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>התחבר &rsaquo; yisraelk1 &#8212; וורדפרס</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://yisraelk1.github.io/TestWordPress/wp-includes/css/dashicons.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-rtl-css'  href='/https://yisraelk1.github.io/TestWordPress/wp-includes/css/buttons-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-rtl-css'  href='/https://yisraelk1.github.io/TestWordPress/wp-admin/css/forms-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-rtl-css'  href='/https://yisraelk1.github.io/TestWordPress/wp-admin/css/l10n-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='login-rtl-css'  href='/https://yisraelk1.github.io/TestWordPress/wp-admin/css/login-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/https:/yisraelk1.github.io/TestWordPress/wp-includes/css/dashicons.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-rtl-css'  href='http://localhost/https:/yisraelk1.github.io/TestWordPress/wp-includes/css/buttons-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-rtl-css'  href='http://localhost/https:/yisraelk1.github.io/TestWordPress/wp-admin/css/forms-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-rtl-css'  href='http://localhost/https:/yisraelk1.github.io/TestWordPress/wp-admin/css/l10n-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-rtl-css'  href='http://localhost/https:/yisraelk1.github.io/TestWordPress/wp-admin/css/login-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -22,7 +22,7 @@
 		<div id="login">
 		<h1><a href="https://he.wordpress.org/">פועל על וורדפרס</a></h1>
 	
-	<form name="loginform" id="loginform" action="/https://yisraelk1.github.io/TestWordPress/wp-login.php" method="post">
+	<form name="loginform" id="loginform" action="http://localhost/https:/yisraelk1.github.io/TestWordPress/wp-login.php" method="post">
 	<p>
 		<label for="user_login">שם משתמש או כתובת אימייל<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
@@ -40,7 +40,7 @@
 	</form>
 
 			<p id="nav">
-					<a href="/https://yisraelk1.github.io/TestWordPress/wp-login.php?action=lostpassword">שחזור סיסמה</a>
+					<a href="http://localhost/https:/yisraelk1.github.io/TestWordPress/wp-login.php?action=lostpassword">שחזור סיסמה</a>
 				</p>
 	
 	<script type="text/javascript">
@@ -57,7 +57,7 @@
 			if(typeof wpOnload=='function')wpOnload();
 			</script>
 
-			<p id="backtoblog"><a href="/https://yisraelk1.github.io/TestWordPress/">
+			<p id="backtoblog"><a href="http://localhost/https:/yisraelk1.github.io/TestWordPress/">
 		חזרה אל yisraelk1	</a></p>
 			
 	</div>
